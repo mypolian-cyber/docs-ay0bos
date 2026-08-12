@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-iex87w.nuansa138win.site/sitemap.xml
